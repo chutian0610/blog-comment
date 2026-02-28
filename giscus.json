@@ -1,8 +1,8 @@
 {
   "origins": [
     "https://www.victorchu.info",
-    "https://blog.victorchu.info",
-    "https://vercel-blog.victorchu.info",
+    "https://hugo-blog.victorchu.info",
+    "https://github.victorchu.info",
     "https://hugo.victorchu0610.workers.dev"
   ],
   "originsRegex": [
