@@ -2,8 +2,8 @@
   "origins": [
     "https://www.victorchu.info",
     "https://githubpage.victorchu.info",
-    "https://vercel-blog.victorchu.info"
-    
+    "https://vercel-blog.victorchu.info",
+    "https://blog.victorchu0610.workers.dev"
   ],
   "originsRegex": [
     "http://localhost:[0-9]+"
