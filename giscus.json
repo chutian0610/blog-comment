@@ -1,4 +1,7 @@
 {
-  "origins": ["https://www.victorchu.info"],
+  "origins": [
+    "https://www.victorchu.info",
+    "https://githubpage.victorchu.info/"
+  ],
   "originsRegex": ["http://localhost:[0-9]+"]
 }
