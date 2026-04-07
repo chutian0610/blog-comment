@@ -4,7 +4,7 @@
     "https://blog.victorchu.info",
     "https://hugo-blog.victorchu.info",
     "https://github.victorchu.info",
-    "https://hugo.victorchu0610.workers.dev"
+    "https://hugo.victorchu.info"
   ],
   "originsRegex": [
     "http://localhost:[0-9]+"
